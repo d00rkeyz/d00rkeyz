@@ -12,6 +12,8 @@
 
 [shoot out a signal !](https://d00rkeyz.atabook.org/)
 
+[peep the pronouns!](https://en.pronouns.page/@d00rk)
+
 </div>
 
 <!--
