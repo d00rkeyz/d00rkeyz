@@ -1,34 +1,12 @@
-<img width="1223" height="822" alt="New board (7)" src="https://github.com/user-attachments/assets/b84901db-b046-48c1-b0d3-c29d64b56f28" />
-
-<p align="center">welcome into voyager / doorks github!!   
-  
-<p align="center">i havent seen someone in a while, <ins>so great to finally see you.</ins>
-
-<p align="center">any pronouns please !!
-
-<p align="center">minor . . please dni 18+ (you can still sign though!)
-
-<div align="center">
-
-[shoot out a signal !](https://d00rkeyz.atabook.org/)
-
-[peep the pronouns!](https://en.pronouns.page/@d00rk)
-
-[.co/flowerrfields](https://rentry.co/flowerrfields)
-
-</div>
-
-<!--
-**d00rkeyz/d00rkeyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=d00rkeyz&color=926dd4&label=VIEWS&style=for-the-badge)
+<p align="center">
+<p align="center">
+$\color{Purple}\Huge{\textbf{✦　　　.　　.　　　✦　　 　　*　　 　　˚   　　.　　.⋆★⋆.　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦}}$
+<img width="1080" height="1920" alt="vgr2 info" src="https://github.com/user-attachments/assets/276e4cd8-ccc2-4abd-9e2c-7752654b6c82"  />
+$\color{Purple}\Huge{\textbf{✦　　　.　　.　　　✦　　 　　*　　 　　˚   　　.　　.⋆★⋆.　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦}}$
+<p align="center">
+<a href="https://d00rkeyz.atabook.org/">Shoot me a signal! (atabook)</a>
+<p align="center">
+<a href="https://rentry.co/flowerrfields/">View spacecraft info (rentry)</a>
+<p align="center">
+<a href="https://github.com/guckless">Voyager 1 (github)</a>
